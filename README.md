@@ -1,4 +1,4 @@
-# SentinelX Safety Engine
+# Sentinel-X Safety Engine
 ### AI-Powered Accident Severity Prediction System
 
 SentinelX Safety Engine is an end-to-end machine learning system designed to analyze traffic accident data and estimate accident severity using environmental and temporal features.
